@@ -2,3 +2,7 @@
 */.venv/
 __pycache__/
 *.pyc
+
+# Ignore dataset files
+*.pickle
+*.pickle.gz
