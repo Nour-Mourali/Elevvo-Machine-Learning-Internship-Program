@@ -1,0 +1,8 @@
+kagglehub
+pandasppip 
+scikit-learn
+tqdm
+librosa
+ffmpeg-python
+matplotlib
+seaborn
